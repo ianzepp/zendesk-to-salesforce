@@ -20,13 +20,14 @@
   "homepage": "https://github.com/ianzepp/zendesk-to-salesforce#readme",
   "dependencies": {
     "@types/lodash": "^4.14.158",
+    "axios": "^0.19.2",
     "lodash": "^4.17.19",
     "typescript": "^3.9.7"
   },
   "config": {
-      "zendesk_user": "",
-      "zendesk_pass": "",
-      "salesforce_user": "",
-      "salesforce_pass": ""
+    "zendesk_user": "",
+    "zendesk_pass": "",
+    "salesforce_user": "",
+    "salesforce_pass": ""
   }
 }
