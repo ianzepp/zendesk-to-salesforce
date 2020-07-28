@@ -26,9 +26,10 @@
     "typescript": "^3.9.7"
   },
   "config": {
-    "zendesk_user": "",
-    "zendesk_pass": "",
-    "salesforce_user": "",
-    "salesforce_pass": ""
+    "zendesk_subdomain": null,
+    "zendesk_user": null,
+    "zendesk_pass": null,
+    "salesforce_user": null,
+    "salesforce_pass": null
   }
 }
