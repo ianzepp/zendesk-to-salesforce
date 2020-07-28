@@ -4,7 +4,9 @@
   "description": "Node utility to import tickets from Zendesk and export them as Cases in Salesforce",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "compile-clean": "bash ./scripts/compile-clean.sh",
+    "compile": "bash ./scripts/compile.sh",
+    "start": "bash ./scripts/start.sh"
   },
   "repository": {
     "type": "git",
