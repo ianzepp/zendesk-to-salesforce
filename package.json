@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/ianzepp/zendesk-to-salesforce/issues"
   },
-  "homepage": "https://github.com/ianzepp/zendesk-to-salesforce#readme"
+  "homepage": "https://github.com/ianzepp/zendesk-to-salesforce#readme",
+  "dependencies": {
+    "@types/lodash": "^4.14.158",
+    "lodash": "^4.17.19",
+    "typescript": "^3.9.7"
+  }
 }
