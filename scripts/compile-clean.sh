@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # Delete all the old module data
 rm -rf ./node_modules
