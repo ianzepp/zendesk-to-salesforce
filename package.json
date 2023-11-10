@@ -25,7 +25,7 @@
     "@types/klaw-sync": "^6.0.0",
     "@types/lodash": "^4.14.158",
     "@types/node": "^14.0.27",
-    "axios": "^0.19.2",
+    "axios": "^1.6.0",
     "fs-extra": "^9.0.1",
     "klaw": "^3.0.0",
     "klaw-sync": "^6.0.0",
